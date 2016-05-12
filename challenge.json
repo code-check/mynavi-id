@@ -1,0 +1,4 @@
+{
+  "editable": ["profile.json"],
+  "test": "mocha test.js"
+}

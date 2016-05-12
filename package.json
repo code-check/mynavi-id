@@ -1,0 +1,22 @@
+{
+  "name": "mynavi-id",
+  "version": "1.0.0",
+  "description": "Please fill out your MyNavi ID and Name in [profile.json](profile.json)",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/code-check/mynavi-id.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/code-check/mynavi-id/issues"
+  },
+  "homepage": "https://github.com/code-check/mynavi-id#readme",
+  "devDependencies": {
+    "chai": "^3.5.0"
+  }
+}
