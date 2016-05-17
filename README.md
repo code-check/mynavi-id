@@ -1,2 +1,2 @@
-## MyNavi Event application form
-Please fill out your MyNavi ID and Name in [profile.json](profile.json)
+## Career in japan application form
+Please fill out your AOL ID and Name in [profile.json](profile.json)
