@@ -6,8 +6,4 @@ describe("profile", () => {
   it("has id", () => {
     assert.match(profile.id, /^\d{6}$/);
   })
-
-  it("has name", () => {
-    assert.ok(profile.name);
-  })
 })
