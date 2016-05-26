@@ -1,2 +1,2 @@
 ## Career in japan application form
-Please fill out your AOL ID and Name in [profile.json](profile.json) as json format.
+Please fill out your Career in Jpana Korea's ID in [profile.json](profile.json) as json format.
